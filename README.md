@@ -1,5 +1,5 @@
 # OCR
-> Ocular character recognition command-line utility.
+> Optical character recognition command-line utility.
 
 This tool is built using the [`Tesseract OCR Engine`](https://github.com/tesseract-ocr/tesseract).
 
